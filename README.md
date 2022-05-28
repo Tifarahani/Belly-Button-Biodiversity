@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/bubble_chart.png"  width="60%" height="60%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/bubble_chart.png"  width="80%" height="80%">
 </p>
 <p align="center">  
 <i>Figure 1: bubble_chart</i>
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw03.png"  width="30%" height="30%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw03.png"  width="20%" height="20%">
 </p>
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
