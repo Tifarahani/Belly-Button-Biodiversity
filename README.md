@@ -32,7 +32,7 @@
 
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw02.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/gauge.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
