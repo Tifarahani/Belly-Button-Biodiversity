@@ -10,8 +10,8 @@
 * D3.js
 ---
 ### Deliverable 1: Create a Horizontal Bar Chart
-<p align="center">  
-![bar Chart](img/hw01.png)
+<p align="left">  
+ <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="80%" height="80%">
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
 </p>
