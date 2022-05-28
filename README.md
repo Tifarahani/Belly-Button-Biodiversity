@@ -11,14 +11,14 @@
 ---
 ### Deliverable 1: Create a Horizontal Bar Chart
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="50%" height="50%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="40%" height="40%">
 </p>
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/bubble_chart.png"  width="50%" height="50%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/bubble_chart.png"  width="60%" height="60%">
 </p>
 <p align="center">  
 <i>Figure 1: bubble_chart</i>
@@ -33,7 +33,7 @@
 
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw02.png"  width="50%" height="50%">
+<img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw02.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
