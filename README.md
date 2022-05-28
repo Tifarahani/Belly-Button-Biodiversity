@@ -11,7 +11,7 @@
 ---
 ### Deliverable 1: Create a Horizontal Bar Chart
 <p align="left">  
- <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="80%" height="80%">
+ <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="30%" height="30%">
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
 </p>
