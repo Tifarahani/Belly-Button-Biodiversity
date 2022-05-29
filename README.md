@@ -20,13 +20,16 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 </p>
 ## Deliverable 2: Create a Bubble Chart
 ### Step 2 - Create a Bubble Chart that displays each sample
+
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/bubble_chart.png"  width="80%" height="80%">
 </p>
 <p align="center">  
 <i>Figure 1: bubble_chart</i>
 </p>
+
 ### Steps 3 and 4 - Displaying the same metadata and each key-value pair from the metadata JSON object
+
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw03.png"  width="20%" height="20%">
 </p>
@@ -34,6 +37,7 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <i>Figure 3:OTU_ID</i>
 </p>
 ---
+
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/gauge.png"  width="70%" height="70%">
 </p>
