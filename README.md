@@ -58,5 +58,5 @@ The Interative Belly Button Biodiversity Dashboard updates the graphs whenever a
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw02.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 4:Weekly Washing Frequency Gauge chart</i>
+<i>Figure 4:Belly Button Biodiversity Dashboard</i>
 </p>
