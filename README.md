@@ -19,6 +19,7 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
 </p>
 ## Deliverable 2: Create a Bubble Chart
+
 ### Step 2 - Create a Bubble Chart that displays each sample
 
 <p align="center">  
@@ -36,8 +37,19 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <p align="center">  
 <i>Figure 3:OTU_ID</i>
 </p>
----
 
+---
+## Advanced Challenge Assignment (Optional)
+
+The following task is advanced and therefore optional.
+
+* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+
+* You will need to modify the example gauge code to account for values ranging from 0 through 9.
+
+* Update the chart whenever a new sample is selected.
+
+![Weekly Washing Frequency Gauge](Images/gauge.png)
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/gauge.png"  width="70%" height="70%">
 </p>
