@@ -18,8 +18,8 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <p align="center">  
 <i>Figure 1:Top 10 bacterial species (OTUs)</i>
 </p>
-## Deliverable 2: Create a Bubble Chart
 
+## Deliverable 2: Create a Bubble Chart
 ### Step 2 - Create a Bubble Chart that displays each sample
 
 <p align="center">  
