@@ -11,7 +11,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 * D3.js
 ---
 ### Deliverable 1: Create a Horizontal Bar Chart
-#### Step 1 - Plotly
+### Step 1 - Plotly
 Using the D3 library we'll read in samples.json. Using a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in the individual.
 <p align="left">  
  <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw01.png"  width="30%" height="30%">
@@ -26,7 +26,7 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <p align="center">  
 <i>Figure 1: bubble_chart</i>
 </p>
-#### Steps 3 and 4 - Displaying the same metadata and each key-value pair from the metadata JSON object
+### Steps 3 and 4 - Displaying the same metadata and each key-value pair from the metadata JSON object
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw03.png"  width="20%" height="20%">
 </p>
