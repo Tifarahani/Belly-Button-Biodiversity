@@ -31,7 +31,7 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/hw03.png"  width="20%" height="20%">
 </p>
 <p align="center">  
-<i>Figure 1:Top 10 bacterial species (OTUs)</i>
+<i>Figure 3:OTU_ID</i>
 </p>
 ---
 <p align="center">  
@@ -41,6 +41,5 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 <i>Figure 4:Gauge chart</i>
 </p>
 
-OTU_ID
 ### Result:
 The Interative Belly Button Biodiversity Dashboard updates the graphs whenever a new sample is selected from the Test Subject ID menu on the left of the webpage.
