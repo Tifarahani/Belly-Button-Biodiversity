@@ -42,19 +42,15 @@ Using the D3 library we'll read in samples.json. Using a horizontal bar chart wi
 ## Advanced Challenge Assignment (Optional)
 
 The following task is advanced and therefore optional.
+ - Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+ - You will need to modify the example gauge code to account for values ranging from 0 through 9.
+ - Update the chart whenever a new sample is selected.
 
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
 <p align="center">  
 <img src="https://github.com/Tifarahani/Belly-Button-Biodiversity/blob/main/Resources/img/gauge.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 4:Gauge chart</i>
+<i>Figure 4:Weekly Washing Frequency Gauge chart</i>
 </p>
 
 ### Result:
